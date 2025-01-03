@@ -6,7 +6,7 @@
 
 - 👩‍💻 I’m currently working on [ChatIn - Realtime chat app with plans, status, quizzes, and more for dynamic and engaging conversations.](https://chatin-online.vercel.app/)
 
-- 🎓 I’m currently learning **backend tech like Express, Node.js, advancing in ML models in data science and Docker, Kubernetes etc.**
+- 🎓 I’m currently learning **User experience design using tools liek Figma, Adobe Illustrator, Notion etc**
 
 - 👯 I’m looking to collaborate on **web based projects, web designing, and data analysis with fellow developers and industry professionals.**
 
